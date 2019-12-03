@@ -5,7 +5,7 @@
   "bugs": {
     "url": "https://github.com/dword-design/stable-version-regex/issues"
   },
-  "repository": "dword-design/version-regex",
+  "repository": "dword-design/stable-version-regex",
   "license": "MIT",
   "author": "dword <sebastianlandw@gmail.com>",
   "contributors": [
