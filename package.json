@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Provides a regex for a stable version string, consisting of major (>=1), minor and patch version.",
   "bugs": {
-    "url": "https://github.com/dword-design/mock-argv/issues"
+    "url": "https://github.com/dword-design/stable-version-regex/issues"
   },
   "repository": "dword-design/version-regex",
   "license": "MIT",
