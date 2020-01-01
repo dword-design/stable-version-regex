@@ -30,7 +30,8 @@ Provides a regex for a stable version string, consisting of major (>=1), minor a
 <a href="https://npmjs.com" title="npm is a package manager for javascript"><h3>npm</h3></a>
 <ul>
 <li>Install: <code>npm install --save stable-version-regex</code></li>
-<li>Require: <code>require('stable-version-regex')</code></li>
+<li>Import: <code>import * as pkg from ('stable-version-regex')</code></li>
+<li>Require: <code>const pkg = require('stable-version-regex')</code></li>
 </ul>
 
 <!-- /INSTALL -->
@@ -57,7 +58,7 @@ versionRegex.test('1.1.02') // false
 
 Unless stated otherwise all works are:
 
-<ul><li>Copyright &copy; dword</li></ul>
+<ul><li>Copyright &copy; Sebastian Landwehr</li></ul>
 
 and licensed under:
 

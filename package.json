@@ -2,12 +2,9 @@
   "name": "stable-version-regex",
   "version": "1.0.3",
   "description": "Provides a regex for a stable version string, consisting of major (>=1), minor and patch version.",
-  "bugs": {
-    "url": "https://github.com/dword-design/stable-version-regex/issues"
-  },
   "repository": "dword-design/stable-version-regex",
   "license": "MIT",
-  "author": "dword <sebastianlandw@gmail.com>",
+  "author": "Sebastian Landwehr <info@dword-design.de>",
   "files": [
     "dist"
   ],
@@ -18,12 +15,7 @@
     "test": "base test"
   },
   "devDependencies": {
-    "@dword-design/base": "^3.4.4",
+    "@dword-design/base": "^4.0.0",
     "expect": "^24.9.0"
-  },
-  "contributors": [
-    "Renovate Bot (http://renovatebot.com)",
-    "dword-design (http://www.dword-design.de)"
-  ],
-  "maintainers": []
+  }
 }
