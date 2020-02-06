@@ -1,5 +1,4 @@
 import versionRegex from 'stable-version-regex'
-import expect from 'expect'
 
 export default () => {
   expect(versionRegex.test('1.0.0')).toBeTruthy()
