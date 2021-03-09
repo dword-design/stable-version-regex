@@ -3,7 +3,7 @@
 <!-- /TITLE -->
 
 <!-- BADGES/ -->
-[![NPM version](https://img.shields.io/npm/v/stable-version-regex.svg)](https://npmjs.org/package/stable-version-regex)
+[![npm version](https://img.shields.io/npm/v/stable-version-regex.svg)](https://npmjs.org/package/stable-version-regex)
 ![Linux macOS Windows compatible](https://img.shields.io/badge/os-linux%20%7C%C2%A0macos%20%7C%C2%A0windows-blue)
 [![Build status](https://github.com/dword-design/stable-version-regex/workflows/build/badge.svg)](https://github.com/dword-design/stable-version-regex/actions)
 [![Coverage status](https://img.shields.io/coveralls/dword-design/stable-version-regex)](https://coveralls.io/github/dword-design/stable-version-regex)
@@ -41,7 +41,7 @@ Provides a regex for a stable version string, consisting of major (>=1), minor a
 ## Install
 
 ```bash
-# NPM
+# npm
 $ npm install stable-version-regex
 
 # Yarn
