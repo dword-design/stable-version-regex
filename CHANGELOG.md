@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/dword-design/stable-version-regex/compare/v1.0.8...v1.0.9) (2021-03-09)
+
+
+### Bug Fixes
+
+* trigger release ([ff14278](https://github.com/dword-design/stable-version-regex/commit/ff14278660e39470dd3b1e5d239537c6195e889d))
+
 ## [1.0.8](https://github.com/dword-design/stable-version-regex/compare/v1.0.7...v1.0.8) (2021-02-16)
 
 
