@@ -3,6 +3,7 @@
   "version": "1.0.9",
   "description": "Provides a regex for a stable version string, consisting of major (>=1), minor and patch version.",
   "repository": "dword-design/stable-version-regex",
+  "funding": "https://www.buymeacoffee.com/dword",
   "license": "MIT",
   "author": "Sebastian Landwehr <info@dword-design.de>",
   "main": "dist/index.js",
