@@ -1,3 +1,10 @@
+## [1.0.11](https://github.com/dword-design/stable-version-regex/compare/v1.0.10...v1.0.11) (2021-03-22)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#27](https://github.com/dword-design/stable-version-regex/issues/27)) ([ff9ac46](https://github.com/dword-design/stable-version-regex/commit/ff9ac4656e6b95bc5b64266ad63844ff1216b961))
+
 ## [1.0.10](https://github.com/dword-design/stable-version-regex/compare/v1.0.9...v1.0.10) (2021-03-17)
 
 
