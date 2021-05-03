@@ -1,3 +1,19 @@
+# [2.0.0](https://github.com/dword-design/stable-version-regex/compare/v1.0.13...v2.0.0) (2021-05-03)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/base to v8 ([#36](https://github.com/dword-design/stable-version-regex/issues/36)) ([138e30b](https://github.com/dword-design/stable-version-regex/commit/138e30b87b419c6412d702cbd54f53d9700bcea5))
+
+
+### BREAKING CHANGES
+
+* require Node.js >= 12
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+Co-authored-by: Sebastian Landwehr <info@dword-design.de>
+Co-authored-by: GitHub Actions <actions@github.com>
+
 ## [1.0.13](https://github.com/dword-design/stable-version-regex/compare/v1.0.12...v1.0.13) (2021-04-12)
 
 
