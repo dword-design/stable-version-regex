@@ -1,3 +1,10 @@
+## [2.0.4](https://github.com/dword-design/stable-version-regex/compare/v2.0.3...v2.0.4) (2021-07-20)
+
+
+### Bug Fixes
+
+* update config files ([5b6a9f8](https://github.com/dword-design/stable-version-regex/commit/5b6a9f846ad233403efb9bd1fd697d86a0c7f528))
+
 ## [2.0.3](https://github.com/dword-design/stable-version-regex/compare/v2.0.2...v2.0.3) (2021-07-06)
 
 
