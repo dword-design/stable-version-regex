@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/dword-design/stable-version-regex/compare/v2.0.6...v3.0.0) (2023-01-08)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#93](https://github.com/dword-design/stable-version-regex/issues/93)) ([d8c6e83](https://github.com/dword-design/stable-version-regex/commit/d8c6e83e1cd784e41e12df6e27930f5d32c6c005))
+
+
+### BREAKING CHANGES
+
+* drop node 12 support, move to esm
+
 ## [2.0.6](https://github.com/dword-design/stable-version-regex/compare/v2.0.5...v2.0.6) (2022-01-12)
 
 
