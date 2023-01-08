@@ -1,4 +1,4 @@
-import versionRegex from '.'
+import versionRegex from './index.js'
 
 export default {
   works: () => {
